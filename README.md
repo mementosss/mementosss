@@ -1,5 +1,5 @@
-### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mementosss)]
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mementosss)
 ![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
 
 <!--
