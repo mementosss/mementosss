@@ -1,6 +1,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mementosss)
-![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif](https://giphy.com/gifs/funny-memesgifs-tGbhyv8Wmi4EM))
 
 <!--
 **mementosss/mementosss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
